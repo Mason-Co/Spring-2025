@@ -17,7 +17,11 @@ dogs = ceil(num/10)
 # Calculate remainders
 buns_r = num % 8
 dogs_r = num % 10
-
+# Use remainder to calculate leftovers
+if buns_r != 0:
+    buns_r = 8-buns_r
+if dogs_r != 0:
+    dogs_r = 10-dogs_r
 # Display data
 print(f"{buns} hot dog bun packages are required with {buns_r} buns left over.")
 print(f"{dogs} hot dog packages are required with {dogs_r} hot dogs left over.")
