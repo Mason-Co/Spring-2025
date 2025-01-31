@@ -8,7 +8,7 @@ rain = 0
 
 # Initial loop for the years
 for i in range(0,years):
-    for m in range(0,12): # Nested loop for each month
+    for m in range(0,12):  # Nested loop for each month
         rain += float(input(f"Inches of rainfall in month {m+1}: "))
 
 # Calculate months and average
