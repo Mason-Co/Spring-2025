@@ -1,5 +1,5 @@
 # Programmer: Mason Colacicco
-# Date: January
+# Date: 1-January
 # Program: Average Rainfall
 
 # User input for years and initialize rain

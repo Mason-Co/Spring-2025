@@ -1,5 +1,5 @@
 # Programmer: Mason Colacicco
-# Date: January
+# Date: 1-January
 # Program: Sales Prediction
 
 # Ask for total sales

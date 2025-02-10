@@ -1,5 +1,5 @@
 # Programmer: Mason C
-# Date: January
+# Date: 1-January
 # Program: address
 
 # Create variables of name, street, and city-state-zip (csz)

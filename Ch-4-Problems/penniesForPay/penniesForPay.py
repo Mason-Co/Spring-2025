@@ -1,5 +1,5 @@
 # Programmer: Mason Colacicco
-# Date: January
+# Date: 1-January
 # Program: Pennies for Pay
 
 # User input for days and set initial pay

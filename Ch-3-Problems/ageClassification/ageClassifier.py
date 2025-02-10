@@ -1,5 +1,5 @@
 # Programmer: Mason Colacicco
-# Date: January
+# Date: 1-January
 # Program: Age Classifier
 
 # User input to determine age

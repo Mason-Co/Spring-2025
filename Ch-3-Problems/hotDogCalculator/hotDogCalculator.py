@@ -1,5 +1,5 @@
 # Programmer: Mason Colacicco
-# Date: January
+# Date: 1-January
 # Program: Hot Dog Cookout Calculator
 
 # Import rounding to the ceiling

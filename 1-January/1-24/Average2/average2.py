@@ -1,5 +1,5 @@
 # Programmer: Mason C
-# Date: January
+# Date: 1-January
 # Program: Average2
 
 average = 0
