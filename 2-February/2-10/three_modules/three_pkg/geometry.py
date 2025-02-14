@@ -30,7 +30,7 @@ def main():
             print('The area is', circle.area(radius))
         elif choice == CIRCUMFERENCE_CHOICE:
             radius = float(input("Enter the circle's radius: "))
-            print('The circumference is', 
+            print('The circumference is',
                   circle.circumference(radius))
         elif choice == AREA_RECTANGLE_CHOICE:
             width = float(input("Enter the rectangle's width: "))
