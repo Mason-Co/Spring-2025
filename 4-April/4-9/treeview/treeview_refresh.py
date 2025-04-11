@@ -25,7 +25,6 @@ game_scroll.config(command=my_game.yview)
 game_scroll.config(command=my_game.xview)
 
 # define our column
-
 my_game['columns'] = ('player_id', 'player_name', 'player_Rank')
 
 # Format columns
